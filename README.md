@@ -1,4 +1,4 @@
-## Olá eu sou o Marcos Antonio Pionte Junior, estudante do quinto termo de Engenharia de Software!
+## Olá eu sou o Marcos Antonio, estudante do quinto termo de Engenharia de Software!
 
 <div align="center">
   <img height="160" src="https://github-readme-stats-rho-virid-36.vercel.app/api?username=MarcosPionte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -18,7 +18,7 @@
 ##
 
 <div> 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/juninhopionte" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:juninhomarcos2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcospiontejr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
