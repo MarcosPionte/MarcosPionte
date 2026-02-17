@@ -1,10 +1,11 @@
 ## Olá eu sou o Marcos Antonio Pionte Junior, estudante do quinto termo de Engenharia de Software!
 
-<div>
-  <a href="https://linktr.ee/marcospionte">
-  <img height="100" src="https://github-readme-stats.vercel.app/api?username=MarcosPionte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPionte&layout=compact&langs_count-16&theme=dark"/> 
+<div align="center">
+  <img height="160" src="https://github-readme-stats-rho-virid-36.vercel.app/api?username=MarcosPionte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats-rho-virid-36.vercel.app/api/top-langs/?username=MarcosPionte&layout=compact&theme=tokyonight"/>
 </div>
+
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
